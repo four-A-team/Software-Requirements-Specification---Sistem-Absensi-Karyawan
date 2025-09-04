@@ -19,23 +19,14 @@
 
 Tambahkan nama kalian ke README.md berisi teks singkat bahwa kalian sudah ikut kontribusi.
 
-Simpan perubahan:
+3. Simpan perubahan:
 
-    git add .
-    git commit -m "Kontribusi Minggu 1 - NAMA"
+        git add .
+        git commit -m "Kontribusi Minggu 1 - NAMA"
 
-Push branch ke GitHub:
+4. Push branch ke GitHub:
 
-    git push origin branch-namaanggota
+        git push origin branch-namaanggota
 
-    Buat Pull Request ke branch main di GitHub.
+5. Buat Pull Request ke branch main di GitHub.
 
-👥 Daftar Anggota
-
-Nama 1
-
-Nama 2
-
-Nama 3
-
-Nama 4
