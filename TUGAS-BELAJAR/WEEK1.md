@@ -11,7 +11,7 @@
 1. Clone repository organisasi ke laptop masing-masing:
 
         git clone https://github.com/four-A-team/Software-Requirements-Specification---Sistem-Absensi-Karyawan.git
-        cd Absensi-karyawan
+        cd Software-Requirements-Specification---Sistem-Absensi-Karyawan
 
 2. Buat branch baru dengan nama masing-masing:
 
