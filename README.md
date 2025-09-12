@@ -1,6 +1,3 @@
-👥 Daftar Anggota
-
-1. Ammar
-2. Muhammad Dhiyaul Atha
-3. 
-4. Arini safitri
+| Nama Lengkap | Kelas | Motivasi Minggu Ini |
+|--------------|-------|---------------------|
+| Atha    | TI 2B | lekas sembuh indonesia ku |

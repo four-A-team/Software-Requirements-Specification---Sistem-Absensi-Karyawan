@@ -27,10 +27,11 @@ git checkout -b nama-week2
 
 ### 4. Edit File README.md
 Tambahkan data dengan format tabel berikut:
-
+``` bash
 | Nama Lengkap | Kelas | Motivasi Minggu Ini |
 |--------------|-------|---------------------|
 | Nama kamu    | TI 2B | Terserah, buat motivasi yang memotivasi |
+```
 
 > **⚠️ Penting:** Jangan merusak tabel, cukup tambah 1 baris sesuai data diri.
 
