@@ -1,3 +1,5 @@
 | Nama Lengkap | Kelas | Motivasi Minggu Ini |
 |--------------|-------|---------------------|
-| Atha    | TI 2B | lekas sembuh indonesia ku |
+| M. Dhiyaul Atha    | TI 2B | lekas sembuh indonesia ku |
+|--------------|-------|---------------------|
+| Ammar    | TI 2B | Kegagalan adalah awal dari keberhasilan |
