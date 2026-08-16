@@ -1,4 +1,4 @@
-##FOUR A TEAM
+## FOUR A TEAM
 
 | Nama Lengkap | Kelas | Motivasi Minggu Ini |
 |--------------|-------|---------------------|
